@@ -1,0 +1,6 @@
+Files: 31, Time: 0.0102 seconds
+Files: 101, Time: 0.0136 seconds
+Files: 1929, Time: 0.0277 seconds
+Files: 31, Memory: 14155776 bytes
+Files: 101, Memory: 14155776 bytes
+Files: 1929, Memory: 14417920 bytes

@@ -1,0 +1,9 @@
+Files: 31, Time: 0.0023 seconds, Memory: 14417920 bytes
+Files: 101, Time: 0.0024 seconds, Memory: 14417920 bytes
+Files: 192, Time: 0.0025 seconds, Memory: 14417920 bytes
+Files: 500, Time: 0.0040 seconds, Memory: 14417920 bytes
+Files: 1000, Time: 0.0079 seconds, Memory: 14548992 bytes
+Files: 2000, Time: 0.0178 seconds, Memory: 14680064 bytes
+Files: 5000, Time: 0.0745 seconds, Memory: 15335424 bytes
+Files: 10000, Time: 0.1284 seconds, Memory: 16252928 bytes
+Files: 20000, Time: 0.3453 seconds, Memory: 18612224 bytes
